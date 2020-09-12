@@ -1,0 +1,1 @@
+test.ld replicates the contents of `ld --verbose` on Debian Bullseye, but with a section added at the end (`.test_section`)
